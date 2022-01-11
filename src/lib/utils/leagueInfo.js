@@ -71,7 +71,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Luke",
+      "Luke": "Luke",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "North Bend", // (optional)
       "bio": "The optimist. Luke can stare a charging bull in the face and think 'I bet I just found a buddy'...always thinking his team is gonna take the chip home, has yet to...",
